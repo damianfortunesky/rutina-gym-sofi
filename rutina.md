@@ -24,30 +24,26 @@
 
 | Ejercicio | Series × repeticiones | Observación |
 |---|---:|---|
-| Sentadilla goblet | 3 × 8-12 | Mancuerna frente al pecho; rodillas alineadas con los pies. |
-| Empuje de cadera en máquina o con barra | 3 × 10-12 | Pausa de 1 segundo arriba, sin arquear la espalda. |
-| Prensa de piernas | 3 × 10-12 | Usar un recorrido cómodo y mantener la zona lumbar apoyada. |
-| Peso muerto rumano con mancuernas | 3 × 8-12 | Llevar la cadera hacia atrás y mantener las pesas cerca del cuerpo. |
-| Abducción de cadera en máquina | 2 × 12-15 | Movimiento lento y sin rebotes. |
-| Plancha frontal | 3 × 20-40 s | Mantener abdomen y glúteos activos. |
+| Sentadilla goblet | 3 × 8-12 | 
+| Empuje de cadera en máquina | 3 × 10-12 | 
+| Prensa de piernas | 3 × 10-12 | 
+| Peso muerto rumano con mancuernas | 3 × 8-12 | 
+| Abducción de cadera en máquina | 2 × 12-15 | 
+| Plancha frontal | 3 × 20-40 s | 
 
 ### Caminata en cinta
 
-- **20 minutos** después de las pesas.
-- 3 minutos suaves, 14 minutos a paso ágil y 3 minutos suaves.
+- **25 minutos** después de las pesas.
+- 4 minutos suaves, 17 minutos a paso ágil y 4 minutos suaves.
 - Durante el tramo principal, usar una inclinación de **3-6 %** y una velocidad que permita hablar en frases cortas sin quedarse sin aire.
 
 ## Sesión B — Tren superior y postura
 
-| Ejercicio | Series × repeticiones | Observación |
-|---|---:|---|
-| Jalón al pecho | 3 × 8-12 | Llevar los codos hacia abajo sin balancear el torso. |
-| Press de pecho en máquina o con mancuernas | 3 × 8-12 | Mantener hombros bajos y espalda apoyada. |
-| Remo sentado en polea | 3 × 10-12 | Juntar suavemente los omóplatos al final. |
-| Press de hombros en máquina o con mancuernas | 2 × 8-12 | Evitar arquear la zona lumbar. |
-| Elevaciones laterales | 2 × 12-15 | Usar poco peso y no encoger los hombros. |
-| Pallof press en polea | 3 × 10 por lado | Resistir la rotación y mantener el tronco estable. |
-| Bird dog | 2 × 8 por lado | Pausa breve con brazo y pierna extendidos. |
+| Ejercicio | Series × repeticiones | 
+| Jalón al pecho | 3 × 8-12 |  
+| Remo sentado | 3 × 10-12 | 
+| Press de hombros en máquina o con mancuernas | 2 × 8-12 | 
+| Elevaciones laterales | 2 × 12-15 | 
 
 ### Caminata en cinta
 
@@ -59,13 +55,12 @@
 
 | Ejercicio | Series × repeticiones | Observación |
 |---|---:|---|
-| Peso muerto con kettlebell o mancuerna desde una base elevada | 3 × 8-10 | Espalda neutra y empuje firme de los pies. |
-| Zancada hacia atrás o sentadilla dividida asistida | 3 × 8-10 por lado | Sujetarse a un apoyo si ayuda a mantener el equilibrio. |
-| Remo con pecho apoyado | 3 × 10-12 | Evitar elevar los hombros. |
-| Press inclinado con mancuernas | 3 × 8-12 | Usar un banco con inclinación moderada. |
-| Curl femoral en máquina | 2 × 10-15 | Controlar tanto la flexión como el regreso. |
-| Caminata del granjero | 3 × 30-45 s | Caminar erguida, con pasos cortos y controlados. |
-| Dead bug | 2 × 8 por lado | Mantener la zona lumbar estable. |
+| Peso muerto rumano | 3 × 8-10 | 
+| sentadilla hack | 3 × 8-10  | 
+| Remo con pecho apoyado | 3 × 10-12 | 
+| Crunch abdominal | 3 × 8-12 |  
+| Curl femoral acostado| 2 × 10-15 | 
+| Dead bug | 2 × 8 por lado | 
 
 ### Caminata en cinta
 
