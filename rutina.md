@@ -56,9 +56,9 @@ No hace falta sumar más ejercicios por ahora: completar con constancia las pesa
 | Jalón al pecho | 3 × 8-12 | Llevar la barra hacia la parte alta del pecho, sin balancearse. |
 | Remo sentado | 3 × 10-12 | Mantener el torso estable y llevar los codos hacia atrás. |
 | Apertura inversa en máquina | 2 × 12-15 | Usar poco peso y evitar encoger los hombros. |
-| Press de hombros en máquina o con mancuernas | 2 × 8-12 | Preferir la máquina si resulta más simple y estable. |
+| Press de hombros en máquina | 2 × 8-12 | Preferir la máquina si resulta más simple y estable. |
 | Elevaciones laterales | 2 × 12-15 | Subir de forma controlada, sin impulso. |
-| Press Pallof en polea | 2 × 8-12 por lado | Sostener 1-2 segundos con brazos extendidos, sin girar el torso. |
+| Crunch abdominal en maquina | 2 × 8-12 | Subir de forma controlada, sin impulso. |
 
 ### Caminata en cinta
 
