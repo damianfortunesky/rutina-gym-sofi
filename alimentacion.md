@@ -13,6 +13,54 @@ En almuerzos y cenas, usar como referencia:
 
 Priorizar alimentos habituales y poco procesados. No hace falta pesar cada ingrediente ni eliminar grupos de alimentos.
 
+## Guía de calorías y macronutrientes
+
+Tomando como punto de partida los datos actuales (29 años, 73 kg, 164 cm, 3 sesiones de gimnasio y 1 de pilates), usar durante **3-4 semanas** el siguiente rango orientativo:
+
+| Objetivo diario | Rango inicial |
+|---|---:|
+| Energía | **1650-1800 kcal** |
+| Proteína | **110-125 g** |
+| Grasas | **50-65 g** |
+| Carbohidratos | **165-205 g**, aproximadamente |
+| Fibra | **25-30 g** |
+
+- Tomar **1800 kcal como límite superior promedio**, no como una prohibición diaria: importa más el promedio de 7 días que acertar un número exacto cada jornada.
+- Evitar bajar de **1600 kcal** sin seguimiento de un profesional. Comer menos no garantiza mejores resultados y puede perjudicar la energía, el entrenamiento y la recuperación.
+- Priorizar primero la proteína y el mínimo de grasas; los carbohidratos completan las calorías restantes y pueden variar según el hambre y la actividad.
+- Los extremos superiores de todos los macros no se usan a la vez: son rangos flexibles que deben encajar dentro de las calorías del día.
+- Una referencia simple de **1750 kcal** es: **115 g de proteína, 60 g de grasas y 185-190 g de carbohidratos**.
+- En días de gimnasio conviene acercarse a la parte alta del rango de carbohidratos. En días de descanso se puede omitir una colación si no hay hambre, manteniendo la proteína.
+
+Los valores son una estimación inicial, no una prescripción exacta. Las etiquetas, las marcas y los métodos de cocción cambian las calorías; no hace falta que la suma sea perfecta.
+
+### Cómo variar las comidas sin salir del objetivo
+
+Armar cada comida principal con **25-35 g de proteína**, una porción de carbohidrato, verduras y una porción pequeña de grasa. Elegir una opción de cada columna permite cambiar el menú conservando una estructura similar:
+
+| Componente | Una porción orientativa | Aporte aproximado |
+|---|---|---:|
+| Proteína | 120-150 g de pollo, pescado o carne magra cocidos | 25-35 g de proteína |
+| Proteína | 2 huevos + 150 g de claras | 25-30 g de proteína |
+| Proteína | 200 g de yogur griego alto en proteína | 18-22 g de proteína |
+| Proteína y carbohidrato | 1 taza de lentejas, garbanzos o porotos cocidos | 14-18 g de proteína + 30-40 g de carbohidratos |
+| Carbohidrato | ¾-1 taza de arroz, pasta o quinoa cocidos | 35-45 g de carbohidratos |
+| Carbohidrato | 250 g de papa o batata cocida | 40-50 g de carbohidratos |
+| Carbohidrato | 40 g de avena o 2 rebanadas de pan integral | 25-30 g de carbohidratos |
+| Grasa | 2 cucharaditas de aceite, 15 g de frutos secos o ¼ de palta | 8-10 g de grasa |
+
+Las legumbres aportan proteína, pero también carbohidratos: si se usa una taza como base, acompañarla con verduras y otra fuente proteica solo si hace falta para llegar al objetivo diario. Para comparar porciones, registrar los alimentos siempre del mismo modo —cocidos o crudos— y usar la etiqueta del producto cuando esté disponible.
+
+### Distribución diaria sencilla
+
+No es obligatorio repartir los macros de una única manera. Como guía práctica:
+
+- **Desayuno:** 20-25 g de proteína.
+- **Almuerzo:** 30-35 g de proteína.
+- **Merienda o comida cercana al entrenamiento:** 20-25 g de proteína.
+- **Cena:** 30-35 g de proteína.
+- Repartir los carbohidratos entre las comidas y colocar una parte antes o después de entrenar.
+
 ## Menú orientativo
 
 ### Lunes — Gimnasio, sesión A
@@ -115,7 +163,12 @@ Aplicar el plan durante 2-3 semanas y registrar de forma breve:
 - Calidad del sueño y recuperación muscular.
 - Digestión y tolerancia a los alimentos.
 
-Si aparece hambre constante, poca energía o un descenso del rendimiento, agregar primero una porción de carbohidratos alrededor del entrenamiento o aumentar ligeramente las comidas principales. Si casi nunca hay hambre entre comidas, las colaciones son opcionales.
+Además, pesarse en condiciones parecidas **2-4 veces por semana** y mirar el promedio semanal, no los cambios de un solo día. La sal, el ciclo menstrual, la digestión y el entrenamiento pueden modificar transitoriamente el peso.
+
+- Si después de 3-4 semanas el promedio no baja y el registro se cumplió de forma razonable, reducir unas **100-150 kcal diarias** o aumentar ligeramente la caminata; no hacer ambas cosas a la vez.
+- Si se pierden más de **0,7 kg por semana** durante dos semanas, aparece hambre constante, poca energía, cambios menstruales o baja el rendimiento, sumar **100-150 kcal diarias** y consultar con un profesional si los síntomas continúan.
+- Si el promedio baja aproximadamente **0,2-0,6 kg por semana** y la energía es buena, mantener las calorías y macros sin cambios.
+- Si casi nunca hay hambre entre comidas, las colaciones son opcionales.
 
 ## Nota importante
 

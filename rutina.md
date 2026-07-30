@@ -20,16 +20,28 @@
 - Priorizar el movimiento controlado: bajar el peso durante 2-3 segundos y subir sin impulso.
 - Si aparece dolor agudo, mareo o una molestia que altera la técnica, detener el ejercicio. El esfuerzo muscular normal no debería sentirse como dolor articular.
 
+## Revisión según los objetivos
+
+La rutina ya cubría piernas, glúteos y trabajo cardiovascular, pero el día de tren superior tenía poco volumen para las prioridades indicadas y faltaba trabajo de core en esa sesión. Para equilibrarla:
+
+- Se agrega **apertura inversa en máquina** para la parte alta de la espalda y la postura.
+- Se agrega **press Pallof en polea** para entrenar la estabilidad del core sin movimientos complejos.
+- Se mantiene un ejercicio de espalda en la sesión C, de modo que la espalda se trabaja dos veces por semana.
+- El core aparece en las tres sesiones mediante plancha, press Pallof, crunch y dead bug.
+- No se incluyen ejercicios específicos de pecho.
+
+No hace falta sumar más ejercicios por ahora: completar con constancia las pesas, las caminatas y pilates será más útil que alargar demasiado las sesiones. El descenso de peso dependerá también de la alimentación, el descanso y la actividad cotidiana.
+
 ## Sesión A — Piernas y glúteos
 
 | Ejercicio | Series × repeticiones | Observación |
 |---|---:|---|
-| Sentadilla goblet | 3 × 8-12 | 
-| Empuje de cadera en máquina | 3 × 10-12 | 
-| Prensa de piernas | 3 × 10-12 | 
-| Peso muerto rumano con mancuernas | 3 × 8-12 | 
-| Abducción de cadera en máquina | 2 × 12-15 | 
-| Plancha frontal | 3 × 20-40 s | 
+| Sentadilla goblet | 3 × 8-12 | Mantener el peso cerca del pecho y toda la planta del pie apoyada. |
+| Empuje de cadera en máquina | 3 × 10-12 | Pausar un segundo arriba sin arquear la zona lumbar. |
+| Prensa de piernas | 3 × 10-12 | Usar un recorrido cómodo y no despegar la cadera del respaldo. |
+| Peso muerto rumano con mancuernas | 3 × 8-12 | Llevar la cadera hacia atrás con la espalda neutra. |
+| Abducción de cadera en máquina | 2 × 12-15 | Evitar el impulso y controlar el regreso. |
+| Plancha frontal | 3 × 20-40 s | Formar una línea recta y terminar la serie si se pierde la postura. |
 
 ### Caminata en cinta
 
@@ -37,13 +49,16 @@
 - 4 minutos suaves, 17 minutos a paso ágil y 4 minutos suaves.
 - Durante el tramo principal, usar una inclinación de **3-6 %** y una velocidad que permita hablar en frases cortas sin quedarse sin aire.
 
-## Sesión B — Tren superior y postura
+## Sesión B — Espalda, hombros y core
 
-| Ejercicio | Series × repeticiones | 
-| Jalón al pecho | 3 × 8-12 |  
-| Remo sentado | 3 × 10-12 | 
-| Press de hombros en máquina o con mancuernas | 2 × 8-12 | 
-| Elevaciones laterales | 2 × 12-15 | 
+| Ejercicio | Series × repeticiones | Observación |
+|---|---:|---|
+| Jalón al pecho | 3 × 8-12 | Llevar la barra hacia la parte alta del pecho, sin balancearse. |
+| Remo sentado | 3 × 10-12 | Mantener el torso estable y llevar los codos hacia atrás. |
+| Apertura inversa en máquina | 2 × 12-15 | Usar poco peso y evitar encoger los hombros. |
+| Press de hombros en máquina o con mancuernas | 2 × 8-12 | Preferir la máquina si resulta más simple y estable. |
+| Elevaciones laterales | 2 × 12-15 | Subir de forma controlada, sin impulso. |
+| Press Pallof en polea | 2 × 8-12 por lado | Sostener 1-2 segundos con brazos extendidos, sin girar el torso. |
 
 ### Caminata en cinta
 
@@ -55,12 +70,12 @@
 
 | Ejercicio | Series × repeticiones | Observación |
 |---|---:|---|
-| Peso muerto rumano | 3 × 8-10 | 
-| sentadilla hack | 3 × 8-10  | 
-| Remo con pecho apoyado | 3 × 10-12 | 
-| Crunch abdominal | 3 × 8-12 |  
-| Curl femoral acostado| 2 × 10-15 | 
-| Dead bug | 2 × 8 por lado | 
+| Peso muerto rumano | 3 × 8-10 | Mantener las mancuernas cerca de las piernas y la espalda neutra. |
+| Sentadilla hack | 3 × 8-10 | Usar un recorrido cómodo y apoyar toda la planta del pie. |
+| Remo con pecho apoyado | 3 × 10-12 | El apoyo evita el balanceo y simplifica la técnica. |
+| Curl femoral acostado | 2 × 10-15 | Controlar tanto la subida como la bajada. |
+| Crunch abdominal | 2 × 10-15 | Elevar los hombros sin tirar del cuello. |
+| Dead bug | 2 × 8 por lado | Mantener la zona lumbar apoyada; acortar el movimiento si se despega. |
 
 ### Caminata en cinta
 
@@ -82,6 +97,12 @@
 - Cada semana, aumentar **solo una variable**: 2-5 minutos de duración, 0,5-1 % de inclinación o un pequeño incremento de velocidad.
 - No superar 35 minutos por sesión durante las primeras 4 semanas.
 - Si las piernas siguen muy fatigadas para la siguiente sesión, reducir primero la inclinación o 5 minutos de duración.
+
+### Actividad fuera del gimnasio
+
+- En 1 o 2 días sin gimnasio, realizar opcionalmente una caminata cómoda de 20-30 minutos.
+- Si actualmente se camina poco, comenzar con una sola salida semanal y agregar la segunda únicamente cuando la recuperación sea buena.
+- Estas caminatas deben permitir conversar con normalidad y no tienen que sentirse como otro entrenamiento intenso.
 
 ## Seguimiento
 
