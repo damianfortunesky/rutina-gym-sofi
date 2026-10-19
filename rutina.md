@@ -37,7 +37,7 @@ Con 4 días de gimnasio hay espacio para separar piernas en dos sesiones con én
 | Ejercicio | Series × repeticiones | Observación |
 |---|---:|---|
 | Sentadilla goblet | 3 × 8-12 | Mantener el peso cerca del pecho y toda la planta del pie apoyada. |
-| Zancada caminando o step-up | 3 × 8-10 por lado | Bajar de forma controlada, sin que la rodilla se desplace hacia adentro. |
+| Extensión de cuádriceps en máquina | 3 × 10-15 | Extender la rodilla sin bloquear con fuerza arriba y bajar de forma controlada. |
 | Prensa de piernas | 3 × 10-12 | Usar un recorrido cómodo y no despegar la cadera del respaldo. |
 | Peso muerto rumano con mancuernas | 3 × 8-12 | Llevar la cadera hacia atrás con la espalda neutra. |
 | Abducción de cadera en máquina | 2 × 12-15 | Evitar el impulso y controlar el regreso. |
@@ -51,7 +51,7 @@ Con 4 días de gimnasio hay espacio para separar piernas en dos sesiones con én
 | Press de pecho en máquina | 3 × 8-12 | Controlar el recorrido completo, sin bloquear los codos con fuerza. |
 | Remo sentado en polea | 3 × 10-12 | Mantener el torso estable y llevar los codos hacia atrás. |
 | Apertura inversa en máquina | 2 × 12-15 | Usar poco peso y evitar encoger los hombros. |
-| Press Pallof en polea | 2 × 10 por lado | Resistir la rotación del torso sin mover la cadera. |
+| Plancha con toque de hombro | 2 × 10 toques por lado | Desde plancha alta, tocar el hombro opuesto alternando manos sin mover la cadera. |
 | Crunch abdominal en máquina | 2 × 10-15 | Subir de forma controlada, sin impulso. |
 
 ## Miércoles — Cardio en caminadora
