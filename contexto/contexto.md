@@ -1,15 +1,17 @@
 /* ------------------------------ OBJETIVO ---------------------------------- */ 
 
-- Estilizar fisico y adelgazar 
-- Tener el IMC en rango (64 - 67) kg
+- Adelgazar y tonificar
+- Objetivo fisico: 61 kg
 
 /* ------------------------------ CARACTERISTICAS --------------------------- */ 
 
-Edad: 29
+Edad: 30
 Sexo: Mujer
-Peso: 73kg
-Altura: 164cm
-Frecuencia: 3 veces por semana gym, 1 vez por semana pilates
+Peso: 68kg
+Altura: 163cm
+Frecuencia gym: lunes, martes, jueves, viernes
+Frecuencia cardio: miercoles, sabado
+Tipo de cardio: 40 minutos en caminadora en zona 2
 Suplementos: Nada
 Enfermedades preexistentes: Ninguna.
 
